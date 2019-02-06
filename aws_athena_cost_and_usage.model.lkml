@@ -1,4 +1,4 @@
-connection: "aws_optimizer"
+connection: "looker_test"
 
 # include all the views
 include: "*.view"
