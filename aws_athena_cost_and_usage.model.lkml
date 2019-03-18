@@ -7,5 +7,7 @@ include: "*.view"
 include: "*.dashboard"
 
 
-explore: cost_and_usage {}
+explore: cost_and_usage {
+  group_label: "Other Models"
+}
   persist_for: "24 hours"
