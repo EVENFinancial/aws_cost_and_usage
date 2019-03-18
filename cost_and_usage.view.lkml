@@ -2,6 +2,7 @@ view: cost_and_usage {
   sql_table_name: aws_optimizer.cost_and_usage_raw ;;
   suggestions: no
 
+
   dimension: bill_billing_entity {
     type: string
     hidden: yes
